@@ -1,0 +1,108 @@
+*{
+    font-family: "Exo", sans-serif;
+}
+
+.contenair{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    display: flex;
+    align-items: baseline;
+}
+
+.logo{
+    width: 40px;
+    height: 40px; ;
+}
+
+.bloc1{
+    display: block;
+
+}
+
+.compte{
+    background-color: rgb(255, 113, 198);
+    color: white;
+    display: flex;
+    width: 300px;
+    padding: 0%;
+    margin-top: 0%;
+    text-align: center;
+}
+
+.panier{
+    display: flex;
+    width: 5px;
+}
+
+.icon{
+    align-content: start;
+    width: 30px;
+    height: 30px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(1, 6, 69);
+    color: white;
+}
+
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    background-color:  rgb(255, 113, 198);
+    color: white;
+    padding-right: 15px;
+}
+
+.flyer{
+    margin:auto;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.contenu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.services{
+    padding: 0%;
+    margin-top: 0%;
+    text-align: center;
+}
+
+.camion{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 10%;
+}
+
+.change{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 10%;
+    margin-top: 10px;
+}
+
+.trait{
+    background-color: rgb(1, 6, 69);
+    height: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.marchandise{
+    display: flex;
+    size: 25px;
+}
+
+.voir{
+    color: rgb(255, 113, 198);
+    text-align: right;
+}
